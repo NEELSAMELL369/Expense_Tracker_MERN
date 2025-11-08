@@ -1,4 +1,4 @@
-export const BASEURL = "https://expense-tracker-mern-ttwh.onrender.com";
+export const BASEURL = "https://expense-tracker-mern-x41e.onrender.com/";
 
 export const API_PATHS = {
     AUTH: {
